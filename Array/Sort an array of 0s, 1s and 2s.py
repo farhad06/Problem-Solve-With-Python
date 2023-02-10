@@ -12,4 +12,5 @@ arr=[0,1,2,0,1,2,0,1,2]
 #     print(i,end=" ")  
 
 Sort(arr) 
-#correct but wrong method 
+#correct but wrong method
+#this code is write letter
